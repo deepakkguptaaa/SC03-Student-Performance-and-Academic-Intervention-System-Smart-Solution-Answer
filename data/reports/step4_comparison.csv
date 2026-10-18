@@ -1,0 +1,9 @@
+split,metric,baseline,ann,ann_minus_baseline
+validation,accuracy,0.445,0.8378,0.3928
+validation,precision,0.1483,0.8241,0.6758
+validation,recall,0.3333,0.8206,0.4873
+validation,f1_score,0.2053,0.8223,0.617
+test,accuracy,0.445,0.8383,0.3933
+test,precision,0.1483,0.8238,0.6755
+test,recall,0.3333,0.8218,0.4885
+test,f1_score,0.2053,0.8227,0.6174
