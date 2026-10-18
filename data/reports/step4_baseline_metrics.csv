@@ -1,0 +1,5 @@
+split,method,rows,accuracy,precision,recall,f1_score
+validation,Majority baseline,1800,0.445,0.1483,0.3333,0.2053
+validation,Step 3 ANN,1800,0.8378,0.8241,0.8206,0.8223
+test,Majority baseline,1800,0.445,0.1483,0.3333,0.2053
+test,Step 3 ANN,1800,0.8383,0.8238,0.8218,0.8227
